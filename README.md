@@ -9,6 +9,7 @@ A simple Python console game where you have 3 tries to guess the secret number.
 
 
 Source Control
+
 <img width="428" height="241" alt="source control 4" src="https://github.com/user-attachments/assets/3f5f23b2-0616-44af-a32f-52a4be0a7ca8" />
 
 
