@@ -14,4 +14,9 @@ while guess != secret_number and not(out_of_guesses):
         guess_count += 1
     else:
         out_of_guesses = True
+
+if out_of_guesses:
+    print("Wrong guess!")
+else:
+    print("Right guess!")
         
